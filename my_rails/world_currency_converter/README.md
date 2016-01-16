@@ -1,6 +1,6 @@
 # WorldCurrencyConverter
 
-TODO: Write a gem description
+World Currency convertor is a gem that will help you convert various currencies.
 
 ## Installation
 
