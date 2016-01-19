@@ -1,4 +1,4 @@
-require "world_currency_converter"
+require 'world_currency_converter'
 
 WorldCurrencyConverter::Money.conversion_rates('EUR', {
   'USD'     => 1.11,
